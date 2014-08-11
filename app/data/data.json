@@ -1,0 +1,14 @@
+[
+	{
+		"color": "red",
+		"diameter": 100
+	},
+	{
+		"color": "blue",
+		"diameter": 150
+	},
+	{
+		"color": "green",
+		"diameter": 200
+	}
+]

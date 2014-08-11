@@ -1,0 +1,28 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar-nav {
+  float: none;
+}
+
+.navbar-nav>li {
+  text-align: center;
+  width: 33%;
+}
+
+.circlesContainer {
+  margin:8px 0;
+}
+
+.circles {
+  border: 2px solid;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0px 10px;
+}
+
+.nameContainer {
+  text-align: center;
+  margin-top: 280px;
+}
