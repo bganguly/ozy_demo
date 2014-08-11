@@ -10,7 +10,9 @@ pre-interview Angular coding exercise
 - 
   1) Home page
      - Input field and submit button.  When submit button is clicked, the console logs the value of the input
+     
   2) Circles page
      - Iterate through provided array (data.json) and create circles (using css) that have a background color of the "color" key, and a diameter of the "diameter" key, and a 2px black border.
+     
   3) Name page
      - The person's name horizontally centered, 300px from the top
