@@ -6,7 +6,7 @@ pre-interview Angular coding exercise
 - Sticky Top Navigation Bar
 - Twitter Bootstrap CSS
 - Media query - changes the pages' background color from white (when less than 768px) to grey (greater than 768px)
-- 3 Routes
+- Routes
   1) Home page
      - Input field and submit button.  When submit button is clicked, the console logs the value of the input
   2) Circles page
